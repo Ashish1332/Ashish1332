@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashish Bhangale  ![Profile Avatar](my-avatar.png) <!-- Left avatar icon -->
+# 👋 Hi, I'm Ashish Bhangale  ![Profile Avatar](./my-avatar.png) <!-- Left avatar icon -->
 
 🚀 **Web Developer | Cloud Enthusiast | Open-Source Contributor**
 
