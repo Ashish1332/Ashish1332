@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Bhangale
 
-![Profile Avatar](https://my-avatar.png) <!-- Replace with the actual image URL -->
+![Profile Avatar](./my-avatar.png) <!-- Replace with the actual image URL -->
 
 🚀 **Web Developer | Cloud Enthusiast | Open-Source Contributor**
 
