@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ashish Bhangale  ![Profile Avatar](./my-avatar.png) <!-- Left avatar icon -->
+# 👋 Hi, I'm Ashish Bhangale  <!-- Left avatar icon -->
 
-🚀 **Web Developer | Cloud Enthusiast | Open-Source Contributor** ![Profile Avatar](./my-avatar.png) <!-- Right avatar icon -->
+🚀 **Web Developer | Cloud Enthusiast | Open-Source Contributor** <!-- Right avatar icon -->
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ashish1332) • [Portfolio](https://ashish1332.github.io/my_portfolio/) • [Hashnode](https://ashish1332.hashnode.dev/)
 
