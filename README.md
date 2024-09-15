@@ -1,49 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ashish Bhangale</h1>
-<h3 align="center">Passionate Web Developer | Java Enthusiast | AWS & Cloud Computing Aficionado | Aspiring Software Engineer | MCA Candidate | Tech Blogger</h3>
+# 👋 Hi, I'm Ashish Sudhir Bhangale
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1332&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1332" /> </p>
+🔗 [LinkedIn](https://www.linkedin.com/in/ashish1332) • [GitHub](https://github.com/Ashish1332) • [Portfolio](https://ashish1332.github.io/my_portfolio/) • [Hashnode](https://ashish1332.hashnode.dev/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish1332" alt="ashish1332" /></a> </p>
+---
 
-<p align="left"> <a href="https://x.com/ashishh1332" target="blank"><img src="https://img.shields.io/twitter/follow/ashishh1332?logo=twitter&style=for-the-badge" alt="ashishh1332" /></a> </p>
+### 🌟 About Me
 
-- 🌱 I’m currently learning **AWS, DevOps, MERN**
+I am an **enthusiastic and adaptable developer** with a passion for learning and applying new technologies. I have a strong foundation in **Java**, **HTML**, **CSS**, **JavaScript**, and **AWS**, along with experience in various development projects and cloud services. I am always eager to dive into new challenges and contribute to exciting projects. My goal is to continuously grow as a **full-stack developer** and make impactful contributions to open-source communities.
 
-- 👨‍💻 All of my projects are available at [https://ashish1332.github.io/my_portfolio/](https://ashish1332.github.io/my_portfolio/)
+🔧 **Technical Skills**:
+- **Programming Languages**: C, C++, Java, Python
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Cloud Computing**: AWS (EC2, S3, Lambda)
+- **Database**: MySQL
+- **Version Control**: Git
+- **Certifications**: CCNA, RedHat (RHCSA & RHCE)
 
-- 📝 I regularly write articles on [https://ashish1332.hashnode.dev/](https://ashish1332.hashnode.dev/)
+---
 
-- 💬 Ask me about **Java, Python, Frontend**
+### 🛠️ Projects
 
-- 📫 How to reach me **imashish1332@gmail.com**
+- **[Java-based Student Management System](https://github.com/Ashish1332/Java-based-student-management-system)**  
+  Built a student management system using Java and MySQL, enhancing data accessibility by 30%.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/ashishh1332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishh1332" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ashish-bhangale-2759a523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-bhangale-2759a523a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20447309/ashish-bhangale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish-bhangale" height="30" width="40" /></a>
-<a href="https://www.instagram.com/direct/inbox/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
+- **[JanJagruti Portal](https://ashish1332.github.io/JanJagruti-Portal/)**  
+  Developed a web portal that allows users to access central and state government schemes in one place.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
+- **[CS Department Web Portal](https://ashish1332.github.io/Computer-Department-Website/)**  
+  Designed a departmental website to showcase academic and extracurricular activities.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Ashish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ashish" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish1332&show_icons=true&locale=en&layout=compact" alt="ashish1332" /></p>
+### 🚀 Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish1332&show_icons=true&locale=en" alt="ashish1332" /></p>
+- **Java Development Intern** - *Octanet Services Pvt Ltd* (Aug 2024 - Sept 2024)  
+  Demonstrated strong Java development skills while contributing to coding and debugging tasks.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish1332&" alt="ashish1332" /></p>
+- **Web Development Intern** - *CODSOFT* (Oct 2023 - Nov 2023)  
+  Mastered front-end technologies and improved web page load times by 15%.
+
+---
+
+### 📜 Certifications
+
+- **Industry Oriented Training of AWS** (Apr 2024)
+- **RedHat (RHCSA & RHCE)** (Apr 2024)
+- **Cisco Certified Network Associate** (Feb 2024)
+- **Java 17 Masterclass** (Jun 2023)
+- **Full Stack Web Development by Udemy** (Nov 2023)
+- **The Complete Python Pro Bootcamp** (Sept 2023)
+
+---
+
+### 🎓 Education
+
+- **Master of Computer Application** - *K.K. Wagh Institute of Engineering Education & Research, Nashik* (Present)  
+- **Bachelor of Science** - *Vidyan Mahavidyalaya, Malkapur* (2023) - *85.07%*
+
+---
+
+### 🏆 Achievements & Activities
+
+- **Treasurer**, Ascend 2024 Event, K.K. Wagh Institute of Engineering Education & Research
+- **First Place**, Inter-college project competition at Vidyan Mahavidyalaya, Malkapur
+- Published articles on **web development** and **cloud computing** on [Hashnode](https://ashish1332.hashnode.dev/).
+
+---
+
+### 📫 Let's Connect
+
+Feel free to connect with me for collaboration, discussions, or open-source contributions!
+
+📧 Email: imashish1332@gmail.com
